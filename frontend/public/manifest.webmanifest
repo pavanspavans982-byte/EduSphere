@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "EduSphere — Learning Without Limits",
+  "short_name": "EduSphere",
+  "description": "An offline-first student learning space.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#7256d9",
+  "icons": [
+    {
+      "src": "/icons/edusphere.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
